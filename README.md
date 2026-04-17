@@ -91,4 +91,6 @@ python producer.py
 ```bash
 spark-submit fraud_streaming_job.py
 ```
+## 📸 Dashboard Preview
 
+![Real-Time Fraud Detection Dashboard](screenshots/dashboard.png)
